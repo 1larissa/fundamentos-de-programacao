@@ -1,3 +1,5 @@
+# Lista de exercícios (Estruturas condicionais)
+
 1. Faça um programa que leia um valor inteiro do teclado. Caso ele seja positivo, mostre sua raiz quadrada. Caso contrário, mostre uma mensagem informando que não foi possível calcular. Dica: explore a função sqrt() da biblioteca math.h.
 
 2. Faça um programa que leia um valor inteiro do teclado e depois mostre o seu valor absoluto. Exemplos:<br>
