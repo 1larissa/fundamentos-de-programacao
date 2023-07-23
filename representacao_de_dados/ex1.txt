@@ -1,0 +1,6 @@
+1) 
+a) 9 = 1001 (binária) e 0x9 (hexadecimal)
+b) 10 = 1010 (binária) e 0xA (hexadecimal)
+c) 11 = 1011 (binária) e 0xB (hexadecimal)
+d) 15 = 1111 (binária) e 0xF (hexadecimal)
+e) 20 = 0001 0100 (binária) e 0x14 (hexadecimal)
