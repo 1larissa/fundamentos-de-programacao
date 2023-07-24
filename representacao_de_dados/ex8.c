@@ -1,7 +1,3 @@
-
-8. Escreva um programa que recebe um número inteiro e diz se ele é par ou ímpar. 
-O teste deve ser feito usando operações bit-a-bit, e não o resto  da divisão (módulo).
-
 #include <stdio.h>
 
   int main () 
