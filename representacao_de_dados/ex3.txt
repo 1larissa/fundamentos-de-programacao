@@ -1,0 +1,6 @@
+3)
+a) 0x01 (hexadecimal) = 0001 (binário) 
+b) 0x02 (hexadecimal) = 0010 (binário) 
+c) 0x04 (hexadecimal) = 0100 (binário) 
+d) 0x12 (hexadecimal) = 0001 0010 (binário) 
+e) 0x55 (hexadecimal) = 0101 0101 (binário) 

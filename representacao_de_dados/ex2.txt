@@ -1,0 +1,6 @@
+2)
+a) 0000 1100 (binário) = 12 (decimal)
+b) 0000 0111 (binário) = 7 (decimal)
+c) 0001 1111 (binário) = 31 (decimal)
+d) 0010 0000 (binário) = 32 (decimal)
+e) 0010 0001 (binário) = 33 (decimal)

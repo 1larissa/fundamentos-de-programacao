@@ -1,0 +1,6 @@
+6)
+a) 0xF8 (hexadecimal) = 1111 1000 (binário) 
+b) 0xAB (hexadecimal) = 1010 1011 (binário) 
+c) 0x16 (hexadecimal) = 0001 0110 (binário) 
+d) 0x75 (hexadecimal) = 0111 0101 (binário) 
+e) 0xFF (hexadecimal) = 1111 1111 (binário) 
