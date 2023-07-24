@@ -48,3 +48,18 @@ c) (x <= 0 && x > 10) (onde x é uma variável do tipo int)<br>
 d) (200 | 6) ^ (30 & 0x08)<br>
 
 8. Escreva um programa que recebe um número inteiro e diz se ele é par ou ímpar. O teste deve ser feito usando operações bit-a-bit, e não o resto  da divisão (módulo).
+
+9. (DESAFIO)<br>
+Todo in ́ıcio de mês e hora da declaração do imposto de renda na Repblica Democrática do Leyzistão, uma ditadura absolutista do Leste Europeu. O ministro da economia Bogdan Baldowzky determinou que cada cidadão deve informar mensalmente seus rendimentos no mês anterior (na moeda local, Unidade de Troca Financeira, ou UTF), em ofício protocolado em 3 vias, com reconhecimento de firma em cartório. O cálculo do imposto a pagar ́e baseado em tabelas que são reajustadas anualmente. A tabela para este ano é a seguinte:<br>
+
+![image](https://github.com/1larissa/fundamentos-de-programacao/assets/129631047/d7f22b11-6f81-4a4a-9938-062612576ab4)<br>
+
+O imposto é calculado de forma que a alíquota não incide sobre o total dos rendimentos, mas somente sobre a parcela que se encontra em determinada faixa. Desta forma, um cidadão com rendimento de UTF 1.200,25 está isento do pagamento do imposto. Por outro lado, um cidadão com rendimento de UTF 1.201,25 terá que pagar imposto de UTF 0,08 (arredondando os valores para 2 casas decimais) - atenção: o imposto neste caso não é UTF 90,09. A tabela abaixo apresenta outros exemplos:<br>
+
+ ![image](https://github.com/1larissa/fundamentos-de-programacao/assets/129631047/1577a00e-622f-4621-b915-33fc8d23963f) <br>
+
+ Você deve implementar um programa que recebe como entrada, por meio da função scanf, um valor indicando o rendimento mensal de um cidadão e  mostra na saída, por meio da função printf, um único número, correspondente ao valor do imposto devido, arredondado para 2 casas decimais. O programa não deve mostrar nenhuma outra mensagem, ou seja, tudo o que ele deve apresentar ́é o valor da saída. Suponha que todas as entradas são válidas.<br>
+<br>
+Obs.: Em uma situação real, os valores da tabela não estariam hard coded no código-fonte, e sim definidos em um banco de dados. Além disso, entradas e saídas não seriam feitas diretamente por meio de terminais em modo texto, os dados seriam transmitidos e armazenados em bancos de dados, possivelmente com apresentação sob demanda em alguma interface apropriada. E claro, cada dado fornecido precisaria ser testado - o que acontece se alguém informar rendimento negativo? Por enquanto, abstraia estes detalhes!<br>
+<br>
+Obs.: Este problema poderia ter uma solção mais elegante com o uso de repetições e vetores, mas por ora você NAO DEVE utilizar estes recursos!
