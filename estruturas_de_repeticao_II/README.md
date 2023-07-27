@@ -116,4 +116,6 @@ Num sorteio que distribui prêmios, um participante inicialmente sorteia um inte
 30 30 30 30 40 40 40 40 40 30 30<br>
 <br>
 Então, o participante ganha 5 pontos, correspondentes aos 5 valores 40 consecutivos. Note que o participante sorteou 6 valores iguais a 30, mas nem todos são consecutivos. Sua tarefa é ajudar a organização do evento, escrevendo um programa que determina o número de pontos de um participante. A entrada é um número inteiro N, que representa o número de valores sorteados. Depois, o programa deve ler N valores inteiros, na ordem do sorteio. Note que os valores são simplesmente informados, não são sorteados pelo programa! O programa então deve mostrar o número de pontos do participante.<br>
+
 ![image](https://github.com/1larissa/fundamentos-de-programacao/assets/129631047/9ea00ea0-6d68-432d-96d9-64c6dc6361b0)
+<br>
