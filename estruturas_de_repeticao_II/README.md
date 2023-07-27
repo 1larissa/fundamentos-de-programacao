@@ -121,3 +121,101 @@ Então, o participante ganha 5 pontos, correspondentes aos 5 valores 40 consecut
 
 ![image](https://github.com/1larissa/fundamentos-de-programacao/assets/129631047/9ea00ea0-6d68-432d-96d9-64c6dc6361b0)
 <br>
+
+12. Escreva um programa que imprima as tabuadas do 1 ao 10. Importante: use loops aninhados, não escreva 10 vezes o código que imprime a tabuada de um número!!!
+
+13. Faça um programa que, dado um valor n informado pelo usuário, imprima um quadrado de caracteres A com n linhas e n colunas, como exemplificado abaixo.<br>
+<br>
+Exemplo para n = 3:<br>
+AAA<br>
+AAA<br>
+AAA<br>
+<br>
+Exemplo para n = 5:<br>
+<br>
+AAAAA<br>
+AAAAA<br>
+AAAAA<br>
+AAAAA<br>
+AAAAA<br>
+
+14. 3. Ajuste o programa anterior para que, em vez de mostrar um quadrado, ele mostre uma pirâmide, como exemplificado abaixo. Dica: se a sua solução para a questão anterior for eficiente, a mudança é muito simples!<br>
+<br>
+Exemplo para n = 3:<br>
+AAA<br>
+AA<br>
+A<br>
+<br>
+Exemplo para n = 5:<br>
+AAAAA<br>
+AAAA<br>
+AAA<br>
+AA<br>
+A<br>
+
+15. Escreva um programa que, dado um valor n informado pelo usuário, mostre as n primeiras letras maiúsculas do alfabeto. Considere que 1 ≤ n ≤ 26 (não precisa testar!). Dicas: - Lembre-se que caracteres são números.<br>
+<br>
+- Lembre-se que, na tabela ASCII, as letras maiúsculas estão na sua ordem alfabética.<br>
+- Você NÃO precisa (e nem deve) olhar valores da tabela ASCII. Use caracteres constantes!<br>
+<br>
+Exemplo para n = 3: ABC<br>
+<br>
+Exemplo para n = 5: ABCDE<br>
+
+16. <br>
+a) Escreva um programa que mostre todos os resultados possíveis quando arremessamos 2 dados de 6 faces. A ordem aqui é relevante, portanto 1, 2 é um resultado diferente de 2, 1, e ambos devem ser mostrados. Dica 1: se achar muito difícil, escreva em algum lugar todas as combinações e veja se
+existe algum padrão. Dica 2: se ainda assim achar muito difícil, comece mostrando somente todos os resultados possíveis quando arremessamos um único dado!<br>
+<br>
+b) Modifique o programa para que ele mostre todos os resultados possíveis quando arremessamos 3 dados de 6 faces. A ordem aqui é relevante, portanto 1, 1, 2 é um resultado diferente de 2, 1, 1, e ambos devem ser mostrados.<br>
+<br>
+c) Modifique novamente o programa para que ele só mostre cada combinação de números uma única vez. Ou seja, se ele apresentar 1, 1, 2, não deve mostrar 2, 1, 1, nem 1, 2, 1. Dica: a modificação é muito simples. Se você não conseguir enxergar a solução facilmente, faça de conta que os dados
+têm apenas 3 faces e escreva em um papel todas as possibilidades possíveis para a versão a) - serão 27 possibilidades - e risque as possibilidades redundantes - devem restar apenas 10. Verifique então se as possibilidades restantes formam algum padrão.
+
+17. Um número positivo é primo se for divisível somente por 1 e por ele mesmo. Escreva um programa que calcula a soma dos N primeiros números primos, onde N é uma constante declarada em uma macro. Por exemplo, como os 5 primeiros números primos são: 2, 3, 5, 7 e 11, para N = 5 a soma
+será 28.
+
+18. Escreva um programa que recebe como entrada um número positivo n e mostra qual é o menor número que é divisível por todos os números de 1 a n. Por exemplo, para n = 10, o programa deve mostrar o número 2520, que é divisível por todos os números entre 1 e 10.
+
+19. <br>
+a) Faça um programa que, dado um valor n informado pelo usuário, imprima uma pirâmide de caracteres com n linhas seguindo o padrão abaixo. Considere que 1 ≤ n ≤ 26 (o programa não precisa testar isso!).<br>
+<br>
+Exemplo para n = 3:<br>
+A B C<br>
+A B<br>
+A<br>
+<br>
+Exemplo para n = 5:<br>
+A B C D E<br>
+A B C D<br>
+A B C<br>
+A B<br>
+A<br>
+<br>
+b) Modifique o seu programa para imprimir o padrão como exemplificado abaixo. Dica: se a sua solução para a questão anterior for eficiente, a mudança é muito simples!<br>
+<br>
+Exemplo para n = 3:<br>
+A B C<br>
+B C<br>
+C<br>
+<br>
+Exemplo para n = 5:<br>
+A B C D E<br>
+B C D E<br>
+C D E<br>
+D E<br>
+E<br>
+<br>
+c) Modifique o seu programa para imprimir o padrão como nos exemplos abaixo. Dica: se a sua solução para a questão anterior for eficiente, a mudança é muito simples!<br>
+<br>
+Exemplo para n = 3<br>
+C C C<br>
+B B<br>
+A<br>
+<br>
+Exemplo para n = 5:<br>
+E E E E E<br>
+D D D D<br>
+C C C<br>
+B B<br>
+A<br>
+<br>
