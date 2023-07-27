@@ -27,6 +27,7 @@ Dica: os erros são de lógica, e não envolvem a sintaxe da linguagem C nem a f
 
 2. Zeca está organizando um bolão de futebol. Segundo suas regras, os apostadores informam o placar do jogo e ganham 10 pontos se acertarem o vencedor ou se foi empate, e ganham mais 5 pontos para o placar de cada time que acertarem. A tabela a seguir dá um exemplo, considerando que
 o placar real foi 3x2: <br>
+
 ![image](https://github.com/1larissa/fundamentos-de-programacao/assets/129631047/897dfd90-a926-4938-8d17-503672850795)<br>
 Escreva um programa que requisita do usuário o placar apostado e depois o placar do jogo e informa quantos pontos o apostador fez.
 
@@ -92,6 +93,7 @@ Um sistema de informações geográficas computadorizado está representando o p
 <br>
 O gerente do sistema de informações geográficas pesquisou e encontrou uma maneira de identificar se uma sequência de números inteiros representa uma montanha com mais de um pico, ou com apenas um pico. Ele observou que, como não há números consecutivos iguais, se houver três números consecutivos na sequência, tal que o número do meio é menor do que os outros dois números, então a montanha tem mais de um pico. Caso contrário, a montanha tem apenas um pico.<br>
 De forma mais rigorosa, se a sequência é A = [A1, A2, A3, ..., AN-2, A N-1, AN], ele quer saber se há uma posição i, para 2 ≤ i ≤ N-1, tal que Ai-1 > Ai e Ai < Ai+1. Para ajudar o gerente, seu programa deve determinar, dada a sequência de números inteiros representando a montanha, se ela tem mais de um pico, ou se tem um pico apenas. O programa recebe como entrada o tamanho N da sequência, seguido por N inteiros, representando a sequência de alturas da montanha em cada ponto. O programa deve indicar então se o programa tem apenas um pico (S) ou não (N).<br>
+
 ![image](https://github.com/1larissa/fundamentos-de-programacao/assets/129631047/5b895e3f-7521-4ce4-938d-fa61087a8a06)
 <br>
 
