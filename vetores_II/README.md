@@ -1,4 +1,4 @@
-# Lista de exercícios (Strings)
+# Lista de exercícios (Vetores - Parte 2)
 
 1. Escreva uma função que recebe um vetor de int de tamanho n e um número como parâmetros, e retorna a posição do número dado no vetor, ou -1 se o número não estiver presente. Se o número aparecer mais de uma vez no vetor, a função pode retornar a posição de qualquer uma das ocorrências. O protótipo da função deve ser:<br>
 int buscaVetor (int* vetor, int n, int procurado);<br>
